@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CemrenurNora
-- 🌱 I’m currently learning software and math.
+- 🌱 I’m currently studying computer science and math.
 - 😄 Pronouns: she/her
 
 <!---
